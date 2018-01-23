@@ -1,0 +1,4 @@
+P=9  MAX = 25MA,200MA. nomal= 20ma ,180ma
+s=3  normal= 3.2v ,9.6v
+3S9P
+
